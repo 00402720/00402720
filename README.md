@@ -2,7 +2,7 @@
 
 I'm a 4th year student at the Central American University (UCA) majoring in Software Engineering. I mainly specialize on UI/UX development as well as project management, as you learn more about me you'll come to find my work on different areas like data science, front and back end development, IoT, and many more!
 
-![00402720's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![00402720's Stats](https://github-readme-stats.vercel.app/api?username=00402720&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -31,5 +31,5 @@ I'm a 4th year student at the Central American University (UCA) majoring in Soft
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin][www.linkedin.com/in/carlos-andrés-rodríguez-novoa]
+- Connect with me on [Linkedin](www.linkedin.com/in/carlos-andrés-rodríguez-novoa)
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
